@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: FlexCap
 description: Exploring Hardware Capabilities in Flexible-Isolation Operating Systems
+github:
+  is_project_page: false
