@@ -17,3 +17,10 @@ Finally, we aim to explore advanced uses of the compartmentalization and safety 
 ## Contact
 
 - [Pierre Olivier](https://sites.google.com/view/pierreolivier), The University of Manchester `pierre dot olivier at manchester dot ac dot uk`
+
+* * *
+
+<p align="center">
+  <img src="assets/uom-logo.png" height=150 style="margin:20px" />
+  <img src="assets/ukri-logo.png" height=150 />
+</p>
