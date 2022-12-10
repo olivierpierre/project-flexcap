@@ -1,6 +1,6 @@
 * * *
 **News**
-- 11/2022 We have ported a minimal version of Unikraft on the Morello machine, check out the code [here](https://github.com/jkressel/uk-plat-morello)
+- 11/2022 We have ported a minimal version of Unikraft on the Morello machine, check out the code [here](https://github.com/jkressel/uk-plat-morello), and our blog post on Unikraft's website [here](https://unikraft.org/blog/2022-12-01-unikraft-on-morello/)
 
 * * *
 
