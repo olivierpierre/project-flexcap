@@ -1,5 +1,6 @@
 * * *
 **News**
+- 03/2023 We gave a talk at CheriTech'23 outlining our research into hybrid Morello compartmentalization with FlexOS, the slides can be found [here](https://github.com/olivierpierre/project-flexcap/blob/master/assets/CheriTech'23_FlexCap_Presentation.pdf) 
 - 11/2022 We have ported a minimal version of Unikraft on the Morello machine, check out the code [here](https://github.com/jkressel/uk-plat-morello), and our blog post on Unikraft's website [here](https://unikraft.org/blog/2022-12-01-unikraft-on-morello/)
 
 * * *
