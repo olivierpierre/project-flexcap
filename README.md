@@ -1,6 +1,6 @@
 * * *
 **News**
-- 09/2023 Our paper entitled "Software Compartmentalization Trade-Offs with Hardware Capabilities" is accepted in [PLOS'23](https://plos-workshop.org/2023/).
+- 09/2023 Our paper entitled "[Software Compartmentalization Trade-Offs with Hardware Capabilities]([url](https://arxiv.org/abs/2309.11332))" is accepted in [PLOS'23](https://plos-workshop.org/2023/).
 - 03/2023 We gave a talk at [CheriTech'23](https://www.dcs.gla.ac.uk/~jsinger/cheritech23.html) outlining our research into hybrid Morello compartmentalization with FlexOS, the slides can be found [here](https://github.com/olivierpierre/project-flexcap/blob/master/assets/CheriTech'23_FlexCap_Presentation.pdf).
 - 12/2022 Our paper [Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software](https://arxiv.org/abs/2212.12904) is accepted at [NDSS'23](https://www.ndss-symposium.org/ndss2023/). The artifacts (source code & data set) are open source and available [here](https://github.com/conffuzz/conffuzz).
 - 11/2022 We have ported a minimal version of Unikraft on the Morello machine, check out the code [here](https://github.com/jkressel/uk-plat-morello), and our blog post on Unikraft's website [here](https://unikraft.org/blog/2022-12-01-unikraft-on-morello/).
