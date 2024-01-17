@@ -36,6 +36,13 @@ Finally, we aim to explore advanced uses of the compartmentalization and safety 
 
 ### Talks
 
+* **A Study of Fine-Grain Compartment Interface Vulnerabilities: What, Why, and What We Should Do About Them.**<br/>H. Lefeuvre.<br/>[**FOSDEM'23**](https://archive.fosdem.org/2023/) [[Video](https://mirrors.dotsrc.org/fosdem/2023/D.confidential/cc_online_vulnerabilities.mp4)]
+* **Flexcap: Compartmentalisation on unikernels with hybrid capabilities**<br/>J. A. Kressel.<br/>[**CheriTech'23**](https://www.dcs.gla.ac.uk/~jsinger/cheritech23.html) [[Slides](https://www.dcs.gla.ac.uk/~jsinger/cheritech23_slides/jkressel_cheritech.pdf)]
+* **Compatibility and Isolation in Specialised Operating Systems**<br/>P. Olivier.<br/>Talk at Heriot-Watt University's [LAIV Seminar](https://laiv.uk/laiv-seminars/) [[Video](https://www.youtube.com/watch?v=1MyjYqUNvXM)] [[Slides](https://github.com/olivierpierre/project-flexcap/blob/master/assets/laiv-seminar-23-slides.pdf)]
+* **Compatibility and Isolation in Specialised Operating Systems**<br/>P. Olivier.<br/>talk at the Crackchester student association Hacker's Hub event [[Slides](https://github.com/olivierpierre/project-flexcap/blob/master/assets/hackers-hub-23-slides.pdf)]
+* **FlexOS - Making OS Isolation Flexible**<br/>H. Lefeuvre.<br/>Huawei [Future Device Technology Summit 2023](http://haemod.uk/documents/conference/Huawei_Future_Device_Summit_Helsinki.pdf) [[Slides](https://www.dcs.gla.ac.uk/~jsinger/cheritech23_slides/jkressel_cheritech.pdf)]
+
+
 ### Theses
 
 * **Exploring Software Compartmentalisation with Hardware Capabilities**<br/>J. A. Kressel, 2023, MPhil Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/280560037/FULL_TEXT.PDF)]
