@@ -11,9 +11,9 @@
 ## Table of Contents
 
 - [Project Description](#project-description)
-- Publications & Documents
-- Software Artifacts
-- Contact
+- [Publications & Documents](#publications--documents)
+- [Software & Research Artefacts](#software--research-artefacts)
+- [Contact](#contact)
 
 ## Project Description
 
@@ -27,10 +27,20 @@ Finally, we aim to explore advanced uses of the compartmentalization and safety 
 
 ## Publications & Documents
 
+### Papers
+
 * **Software Compartmentalization Trade-Offs with Hardware Capabilities.**<br/>J. A. Kressel, H. Lefeuvre, P. Olivier.<br/>[**PLOS'23**](https://www.plos-workshop.org/2023/) [[ArXiv](https://arxiv.org/abs/2309.11332)]
 * **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V. Bădoiu, Y. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>[**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv](https://arxiv.org/abs/2212.12904)]
 * **Towards (Really) Safe and Fast Confidential I/O.**<br/>H. Lefeuvre, D. Chisnall, M. Kogias, P. Olivier.<br/>[**HotOS'23**](https://sigops.org/s/conferences/hotos/2023/) [[Pure](https://pure.manchester.ac.uk/ws/portalfiles/portal/262834367/cio_hotos23.pdf)]
 * **CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces.**<br/>H. Lefeuvre, D. Chisnall, M. Kogias, P. Olivier.<br/>[**KISV'23**](https://kisv-workshop.github.io/) [[ACM](https://dl.acm.org/doi/10.1145/3625275.3625399)]
+
+### Talks
+
+### Theses
+
+* **Exploring Software Compartmentalisation with Hardware Capabilities**<br/>J. A. Kressel, 2023, MPhil Thesis at [The University of Manchester](https://www.manchester.ac.uk/) [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/280560037/FULL_TEXT.PDF)]
+
+## Software & Research Artefacts
 
 
 ## Contact
