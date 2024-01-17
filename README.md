@@ -50,6 +50,11 @@ Finally, we aim to explore advanced uses of the compartmentalization and safety 
 
 ## Software & Research Artefacts
 
+- Our [port](https://github.com/jkressel/uk-plat-morello) of Unikraft to Morello (hybrid capabilities mode)
+- [ConfFuzz](https://conffuzz.github.io/), an exploratory fuzzer designed for uncovering interface-related vulnerabilities in compartmentalized software
+  - ConfFuzz NDSS'23 paper [data set](https://github.com/conffuzz/conffuzz-ndss-data)
+- FlexCap is in part an extension of [FlexOS](https://project-flexos.github.io/), an OS in which the isolation strategy is decoupled from the design
+
 
 ## Contact
 
