@@ -23,7 +23,8 @@ FlexOS is a safety-oriented library operating system in which the safety/isolati
 
 A first step towards porting FlexOS to Morello will be to port FlexOS' basis, Unikraft, to the platform. Unikraft is a high-performance/low latency unikernel targeting cloud and edge applications. Unikraft's performance benefits come from the fact that, following the principle from the unikernel OS model, kernel and application code share a single, completely unprotected, address space. This obviously raises security concerns. Porting Unikraft to Morello gives us the unique opportunity to study bringing back safety into unikernels while maintaining the high degree of performance offered by that OS model. We plan to achieve that using the safety benefits brought by capabilities to legacy programming languages (Unikraft is written in C) through pure and/or hybrid capabilities.
 
-Finally, we aim to explore advanced uses of the compartmentalization and safety features of capabilities along two possible research avenues: 1) the use of compartmentalization as provided by FlexOS to allow incremental port of some/all of OS/user components to Morello's pure capability model; 2) vertical compartmentalization through capabilities in FlexOS in order to address confused deputies, a type of vulnerability that is becoming increasingly problematic in today's compartmentalised software.
+FlexCap is part of the [Digital Security by Design](https://www.dsbd.tech/) programme, and is one of several project aiming at creating a [software ecosystem](https://www.dsbd.tech/unleash-of-the-release-enabling-the-digital-security-by-design-dsbd-ecosystem/) for the DSbD.
+
 
 ## Publications & Documents
 
@@ -32,7 +33,7 @@ Finally, we aim to explore advanced uses of the compartmentalization and safety 
 * **Software Compartmentalization Trade-Offs with Hardware Capabilities.**<br/>J. A. Kressel, H. Lefeuvre, P. Olivier.<br/>[**PLOS'23**](https://www.plos-workshop.org/2023/) [[ArXiv](https://arxiv.org/abs/2309.11332)]
 * **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V. Bădoiu, Y. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>[**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv](https://arxiv.org/abs/2212.12904)]
 * **Towards (Really) Safe and Fast Confidential I/O.**<br/>H. Lefeuvre, D. Chisnall, M. Kogias, P. Olivier.<br/>[**HotOS'23**](https://sigops.org/s/conferences/hotos/2023/) [[Pure](https://pure.manchester.ac.uk/ws/portalfiles/portal/262834367/cio_hotos23.pdf)]
-* **CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces.**<br/>Y. Chien, V. Bădoiu, Y. Yang, Y. Huo, K. Kaoudis, H. Lefeuvre, P. Olivier.<br/>[**KISV'23**](https://kisv-workshop.github.io/) [[ACM](https://dl.acm.org/doi/10.1145/3625275.3625399)]
+* **CIVSCOPE: Analyzing Potential Memory Corruption Bugs in Compartment Interfaces.**<br/>Y. Chien, V. Bădoiu, Y. Yang, Y. Huo, K. Kaoudis, H. Lefeuvre, P. Olivier, and N. Dautenhahn.<br/>[**KISV'23**](https://kisv-workshop.github.io/) [[ACM](https://dl.acm.org/doi/10.1145/3625275.3625399)]
 
 ### Talks
 
